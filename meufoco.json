@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.2/meufoco-cli_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.3/meufoco-cli_0.0.3_windows_amd64.zip",
             "bin": [
                 "meufoco.exe"
             ],
-            "hash": "a5ae813977e683d350029f0db2b49259516bdcc0ee002bb88b8adbe1d3f983b4"
+            "hash": "0bf640a2b8273e23b49a2d8a6547695bcc29a8ff368f2fc864b241b1925f8c1e"
         },
         "arm64": {
-            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.2/meufoco-cli_0.0.2_windows_arm64.zip",
+            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.3/meufoco-cli_0.0.3_windows_arm64.zip",
             "bin": [
                 "meufoco.exe"
             ],
-            "hash": "53f9b73e1dfaa8d58b8cfd65329e5635602464d244fad2ef1b38b209d8a68df8"
+            "hash": "9c1f0b9bef23d27e05dfc09d2a2362b034bd1b2ad713b1c7ddf04c11cb68da5c"
         }
     },
     "homepage": "https://github.com/widia-io/widia-omni",
