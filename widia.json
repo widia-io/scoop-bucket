@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.1/widia-cli_0.0.1_windows_amd64.zip",
+            "bin": [
+                "widia.exe"
+            ],
+            "hash": "1d5a2fe9a85964fb9fb8fb52f6aa7035130d635dee65acbc1046c25878c52541"
+        },
+        "arm64": {
+            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.1/widia-cli_0.0.1_windows_arm64.zip",
+            "bin": [
+                "widia.exe"
+            ],
+            "hash": "3a8e3a33ce5fb0a58a7cadb7ce37ebf8bc67e070e68aea3f6bdc860f281b79c1"
+        }
+    },
+    "homepage": "https://github.com/widia-io/widia-omni",
+    "description": "Interface CLI em modo TUI para gerenciar tarefas, áreas, projetos e espaços de trabalho"
+}
