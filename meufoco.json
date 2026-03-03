@@ -1,0 +1,21 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.2/meufoco-cli_0.0.2_windows_amd64.zip",
+            "bin": [
+                "meufoco.exe"
+            ],
+            "hash": "a5ae813977e683d350029f0db2b49259516bdcc0ee002bb88b8adbe1d3f983b4"
+        },
+        "arm64": {
+            "url": "https://github.com/widia-io/widia-omni/releases/download/v0.0.2/meufoco-cli_0.0.2_windows_arm64.zip",
+            "bin": [
+                "meufoco.exe"
+            ],
+            "hash": "53f9b73e1dfaa8d58b8cfd65329e5635602464d244fad2ef1b38b209d8a68df8"
+        }
+    },
+    "homepage": "https://github.com/widia-io/widia-omni",
+    "description": "Interface CLI em modo TUI para gerenciar tarefas, áreas, projetos e espaços de trabalho"
+}
