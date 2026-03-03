@@ -1,0 +1,1 @@
+# scoop-bucket\n\nRepositório do bucket Scoop para o CLI widia.\n\n\n
